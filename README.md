@@ -2,7 +2,7 @@
 This repository contains the website for the Bag Packer App.
 
 ## Feedback
-If you have feedback regarding bugs or improvements, open an issue.
+If you have feedback regarding bugs or improvements, please open an issue.
 
 ## Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
