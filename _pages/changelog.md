@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can find the changelog of the Bag Packer.
+Here you can find the changelog of the PackWiser.
 
 <br>
 
