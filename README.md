@@ -1,5 +1,5 @@
-# Bag Packer Site
-This repository contains the website for the Bag Packer App.
+# PackWiser Site
+This repository contains the website for the PackWiser App.
 
 ## Feedback
 If you have feedback regarding bugs or improvements, please open an issue.
