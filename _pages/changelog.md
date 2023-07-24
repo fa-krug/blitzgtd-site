@@ -5,11 +5,22 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can find the changelog of the PackWiser.
+Here you can find the changelog of BagMate.
 
 <br>
 
 ### `Latest`
+# **Version 1.1**
+#### What's New
+- A new day, a new name. It was just too similar
+- Cloning your trips is now just a swipe away
+
+#### Bug Fixes
+- Fix a visual error in dark mode
+- Fixed a visual error in Dark Mode
+
+<br>
+
 # **Version 1.0**
 First official release.
 

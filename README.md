@@ -1,5 +1,5 @@
-# PackWiser Site
-This repository contains the website for the PackWiser App.
+# BagMate Site
+This repository contains the website for the BagMate App.
 
 ## Feedback
 If you have feedback regarding bugs or improvements, please open an issue.
