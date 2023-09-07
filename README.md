@@ -1,5 +1,5 @@
 # BagMate Site
-This repository contains the website for the BagMate App.
+This repository contains the website for the BlitzGTD App.
 
 ## Feedback
 If you have feedback regarding bugs or improvements, please open an issue.

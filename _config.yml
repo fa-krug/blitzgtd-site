@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6452018199                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6463464743                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -11,14 +11,14 @@ playstore_link                            :                                     
 app_icon                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Packing your bag has never been easier.
+app_description                           : Get your things done like a Blitz!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 # Information About Yourself
 your_name                                 : Sascha Krug                             
-your_link                                 : https://packer.fa-krug.de                     
+your_link                                 : https://blitzgtd.fa-krug.de                     
 your_city                                 : Munich                                
 email_address                             : support@fa-krug.de
 facebook_username                         :                                           
@@ -32,41 +32,40 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Trips
-    description                           : With just a few clicks, you can create new trips and specify the desired participants, activities, and other relevant details.
-    fontawesome_icon_name                 : earth-europe
+  - title                                 : Like a Blitz!
+    description                           : Discover the definitive implementation of BlitzGTD with our app, serving as the ideal embodiment of its capabilities. Explore more details <a href="/blitzgtd">here</a>.
+    fontawesome_icon_name                 : bolt-lightning
+
+  - title                                 : Tags
+    description                           : Elevate your organization game by effortlessly categorizing your items with vibrant and visually appealing tags.
+    fontawesome_icon_name                 : tag
+
+  - title                                 : Quick actions
+    description                           : Our app is optimized for swift task completion through various means like hotkeys, gestures, menus, widgets, shortcuts, deep-links, and terminal integration.
+    fontawesome_icon_name                 : truck-fast
     
-  - title                                 : Activities
-    description                           : You can combine various activities, such as sightseeing, dining, and outdoor adventures, to create comprehensive trip templates that can be easily customized and reused.
-    fontawesome_icon_name                 : person-running
+  - title                                 : Global search
+    description                           : Effortlessly search across all lists with a simple swipe or a quick hotkey, granting you instant access to the information you need.
+    fontawesome_icon_name                 : magnifying-glass
 
-  - title                                 : Participants
-    description                           : Only take items on trips that are assigned to the participants.
-    fontawesome_icon_name                 : users
+  - title                                 : Scheduler
+    description                           : Schedule your items for the future with ease, whether it's a one-time event or a recurring task, using the convenient CronTab integration.
+    fontawesome_icon_name                 : clock
 
-  - title                                 : Gestures
-    description                           : You can quickly remove unwanted items with a left swipe and access additional details or options by swiping right.
-    fontawesome_icon_name                 : hand
+  - title                                 : Daily and weekly planner
+    description                           : Revamp the structure of your lists effortlessly using the daily and weekly planner feature. Gain control over your organization and seamlessly reorganize your tasks to maximize productivity.
+    fontawesome_icon_name                 : book-open-reader
 
-  - title                                 : Categories
-    description                           : Improve the organization of your activities by creating categories such as Transportation and Weather in the settings. This way, you can structure your plans and access them more easily.
-    fontawesome_icon_name                 : folder-closed
-
-  - title                                 : Washer
-    description                           : Mark items as washable to avoid overpacking and unnecessary items.
-    fontawesome_icon_name                 : soap
-
-  - title                                 : Checklist
-    description                           : Thanks to the travel checklist icon, you now have a handy list where you can easily overview and check off all necessary items. Never forget anything again!
-    fontawesome_icon_name                 : list-check
-
-  - title                                 : Print
-    description                           : Experience the unparalleled joy of crossing off items on a physical checklist. Generate a printable document directly from your checklist in mere seconds.
-    fontawesome_icon_name                 : print
-
+  - title                                 : Apple Reminders
+    description                           : Easily import your Reminders into BlitzGTD and consolidate your tasks. Seamlessly transfer your existing reminders for a unified and streamlined task management experience.
+    fontawesome_icon_name                 : down-long
+    
+  - title                                 : Markdown
+    description                           : Capture all the essential details about an item in its details section using Markdown formatting. Seamlessly incorporate text formatting, lists, links, tables, and more to provide comprehensive and rich information within the item's details.
+    fontawesome_icon_name                 : markdown
 
 # Theme Settings
-topbar_color                              : "#33A6BD"
+topbar_color                              : "#53B29C"
 topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
@@ -80,14 +79,14 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
-app_title_color                           : "#33A6BD"
+app_title_color                           : "#53B29C"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#33A6BD"
+feature_icons_foreground_color            : "#53B29C"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"

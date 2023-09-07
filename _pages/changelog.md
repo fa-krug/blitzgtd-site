@@ -1,57 +1,23 @@
 ---
 layout: page
-title: What's New
+title: What's New?
 include_in_header: true
+order: 3
 ---
 
 # Changelog
-Here you can find the changelog of BagMate.
+Here you can find the changelog of BlitzGTD.
 
-<br>
-
-### `Latest`
-# **Version 1.1**
-#### What's New
-- A new day, a new name. It was just too similar
-- Cloning your trips is now just a swipe away
-
-#### Bug Fixes
-- Fix a visual error in dark mode
-- Fixed a visual error in Dark Mode
-
-<br>
-
-# **Version 1.0**
-First official release.
-
-#### What's New
-- Checklists can now be created from a trip
-- Its now possible to print checklists
-
-#### Bug Fixes
-- Fix multiple bugs
-- Cleanup application
-
-<br>
-
-### **Version 0.2**
-#### What's New
-- Gestures can now be used
-- Categories can now be assigned
-- A washer can now be configured
-
-<br>
-
-________
 <br>
 
 ### `Initial Release`
-# **Version 0.1**
+# **Version 1.0**
 This is the first and initial release. It contains all basic features.
 
 #### What's New
-- Trips can now be created
-- Activities can now be created
-- Participants can now be created
+- BlitzGTD is implemented
+- Tags are present
+- Schedule is possible
+- Navigation is present
 
 <br>
