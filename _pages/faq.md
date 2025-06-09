@@ -6,11 +6,11 @@ order: 2
 ---
 # Frequently Asked Questions
 
+## *Is this app  maintained?*
+Sadly not anymore. SwiftUI contains so many big and small quirks, which prevented me in implementing even the simplest features how i would have liked it. The current version is stable and you can try it with the free version, but for now i stopped the development.
+
 ## What is your business model?
 It's simple. I create an app, you can try it and if you like it, you buy it. No subscription, no ads, no data collection, no bullshit.
-
-## Will you maintain this app?
-What? Of course! It's my daily driver, and I'll add all the nice and cool features if they make sense and fit the app's idea.
 
 ## So, ChatGPT?
 As it will take some time until we see Apple Intelligence for third-party developers, i added a ChatGPT integration. It is currently very experimental and requires a bit of OpenAI API knowledge.
